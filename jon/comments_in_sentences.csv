@@ -1,0 +1,9 @@
+ID,Author,Comment No.,Sentence No.,Sentence Text
+1755460,beatrice.acasandrei@softvision.com,1,1,Not sheriff results should be filter out in Performance Tab (hide results where the field shouldAlert is false - this field can be found in the PerformanceSignature model).
+1755460,beatrice.acasandrei@softvision.com,1,2,*Acceptance criteria:* Any performance metrics from a task that are not sheriffed are not displayed in Treeherder鈥檚 performance tab.
+1755460,beatrice.acasandrei@softvision.com,1,3,"For example, many tasks have a result for 鈥渇etch_content鈥�, which is not sheriffed."
+1755460,beatrice.acasandrei@softvision.com,1,4,https://mozilla-hub.atlassian.net/browse/FXP-1884
+1755460,pulgasaur@mozilla.bugs,2,1,Created attachment 9263929 Link to GitHub pull-request: https://github.com/mozilla/treeherder/pull/7384
+1755460,jmaher@mozilla.com,3,1,deployed to production
+1755460,pulgasaur@mozilla.bugs,4,1,Created attachment 9266749 Link to GitHub pull-request: https://github.com/mozilla/treeherder/pull/7405
+1755460,jmaher@mozilla.com,5,1,this is in treeherder production now.
